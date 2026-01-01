@@ -5,7 +5,7 @@
 **Final Score:** 66,677.164 (Passed 23/23 test cases)
 
 ##  Project Summary itself.
-This repository contains a high-performance C++ solution for an NP-hard network optimization problem. The challenge was asking to determine the optimal configuration for **Optical Circuit Switches (OXC)** in a large-scale AI computing cluster to minimize flow conflicts and adjustment costs.
+This repository contains a solution in C++ PL for the NP-hard network optimization problem. The challenge was asking to determine the optimal configuration for **OXC which is Optical Circuit Switches** in a large-scale AI computing cluster to minimize flow conflicts and adjustment costs.
 
 
 
