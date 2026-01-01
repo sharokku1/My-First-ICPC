@@ -10,7 +10,7 @@ This repository contains a high-performance C++ solution for an NP-hard network 
 
 
 # 💡 Key Algorithmic Features I used while solving the task
-**First what i did**: Tried to deep explicitly for OXC and optimization more precisely, to not miss anything and solve more versatilely
+**First what i did**: Tried to deep explicitly into OXC and optimization more precisely, to not miss anything and solve more versatilely
  **Randomized Heuristics:** For this I implemented a custom fast hashing function (`hmix`) and a randomized search engine to explore the solution space within the 5-second time limit.(because, task was demanding time limit per test in 5 seconds)
  **Dynamic Load Balancing:** Developed a system to track real-time load on Leaf-Spine, Spine-OXC, and internal OXC links to prevent bottlenecks.
  **Optimization for Adjustment Cost:** Created a `stealAndConnect` logic to minimize the "edit distance" between physical topology changes, which significantly boosted the final score.
